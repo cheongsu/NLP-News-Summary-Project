@@ -3,6 +3,12 @@
 
 목적 : 개인 투자자를 위한 기업 투자정보 요약
 
+### team
+
+14기 김태영
+16기 박민규
+17기 임청수
+
 ### pre-trained model
 - SKT-AI/KoBART model
 https://github.com/SKT-AI/KoBART
