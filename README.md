@@ -30,7 +30,7 @@ AI Hub 문서요약 텍스트 데이터 활용
 ### service
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
 
-1. 유저가 탐색하고자 한느 기업명 입력 * 국내 상장 기업 중
+1. 유저가 탐색하고자 하는 기업명 입력 * 국내 상장 기업 중
 
 2. 해당 기업의 최신 뉴스 정보 요약 * 네이버 중권 뉴스
 
